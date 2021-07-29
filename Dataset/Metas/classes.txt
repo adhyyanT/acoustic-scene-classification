@@ -1,0 +1,5 @@
+airport - 0
+bus - 1
+metro - 2
+metro_station - 3
+park - 4
